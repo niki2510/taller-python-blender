@@ -1,1 +1,4 @@
-# taller-python-blender
+# Taller Python para Blender
+Nivel básico
+
+Ejemplos
