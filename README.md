@@ -3,7 +3,7 @@ Nivel básico
 
 <h4>Ejemplos:</h4>
 
-deplazamiento-X-Y-2-full.blend : Movimiento de cubo por: x,y,z
+deplazamiento-X-Y-2-full.blend (con Python) : Movimiento de cubo por: x,y,z
 
 Tecla e = -y
 Tecla x = y
@@ -16,3 +16,8 @@ En el ejemplo: <strong>movimiento-bola-2.blend</strong> no hay código de python
 Despues no toca programar efectos visuales para blender desde python.
 <hr/>
 Animación - Movimiento Cubo (sin código Python) => animación-cubo-1.blend
+<hr/>
+movimientos-cubo-X-Y.blend (sin código de python) ==> para enseñar movimiento básicos de un objeto por el eje X-Y
+<hr/>
+salto-una-pelota-XYZ.blend (sin código de python) ==> para enseñar movimiento básicos de un objeto por el eje X-Y-Z
+<hr/>
