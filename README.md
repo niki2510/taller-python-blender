@@ -10,6 +10,9 @@ movimientos-cubo-X-Y.blend (sin código de python) ==> para enseñar movimiento 
 <hr/>
 salto-una-pelota-XYZ.blend (sin código de python) ==> para enseñar movimiento básicos de un objeto por el eje X-Y-Z
 <hr/>
+En el ejemplo: <strong>movimiento-bola-2.blend</strong> no hay código de python, sin embargo este pequeño ejemplo nos sirve para conocer un poco las herramientas de Blender para la creación de los objetos y animaciónes. 
+Antes de programar efectos visuales para blender con python necesitamos tener conocimientos básicos de Blender.
+<hr/>
 <strong>Modelado básico de personajes en Blender.<strong><br>
   <strong>araña2.blend</strong> ==> Es un ejemplo - Modelo de Araña
 <hr/>
@@ -35,9 +38,6 @@ Tecla f = x
 Tecla c = z
 Tecla v = -z
 <hr/>
-En el ejemplo: <strong>movimiento-bola-2.blend</strong> no hay código de python, sin embargo este pequeño ejemplo nos sirve para conocer un poco las herramientas de Blender para la creación de los objetos y animaciónes. 
-Antes de programar efectos visuales para blender con python necesitamos tener conocimientos básicos de Blender.
-    <hr/>
   <strong>Forma geometrica personalizada: Piramide</strong><br><br>
   <span>python-forma-persanalizada-piramide.blend</span>
   <hr/>
