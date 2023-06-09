@@ -21,3 +21,10 @@ movimientos-cubo-X-Y.blend (sin código de python) ==> para enseñar movimiento 
 <hr/>
 salto-una-pelota-XYZ.blend (sin código de python) ==> para enseñar movimiento básicos de un objeto por el eje X-Y-Z
 <hr/>
+<strong>Modelado básico de personajes en Blender.<strong>
+  <strong>araña2.blend</strong> ==> Es un ejemplo - Modelo de Araña
+<hr/>
+  <strong>Aplicación de rigging para controlar movimiento del personaje.
+<strong>
+  <strong>objeto-animacion-rigging.blend</strong> ==> Es un simple ejemplo como se puede usar "rigging" para controlar movimiento de un objeto
+  <hr/>
