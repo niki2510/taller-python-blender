@@ -25,6 +25,6 @@ salto-una-pelota-XYZ.blend (sin código de python) ==> para enseñar movimiento 
   <strong>araña2.blend</strong> ==> Es un ejemplo - Modelo de Araña
 <hr/>
   <strong>Aplicación de rigging para controlar movimiento del personaje.
-<strong>
+<strong><br>
   <strong>objeto-animacion-rigging.blend</strong><br> ==> Es un simple ejemplo como se puede usar "rigging" para controlar movimiento de un objeto
   <hr/>
