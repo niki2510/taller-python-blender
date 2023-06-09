@@ -31,6 +31,12 @@ salto-una-pelota-XYZ.blend (sin código de python) ==> para enseñar movimiento 
   <strong>Creación de un objeto en python para Blender:</strong></strong><br>
   python-creación de un objeto.blend
   <hr/>
+    <strong>Cambiamos tamaños del objeto (escalamos)</strong><br>
+    python-cambiamos-tamaño.blend
+    <hr/>
+    <strong>Animación simple de un cubo (por eje "X")</strong><br>
+    python-animar-objeto.blend
+    <hr/>
   <strong>Forma geometrica personalizada: Piramide</strong><br><br>
   <span>python-forma-persanalizada-piramide.blend</span>
   <hr/>
