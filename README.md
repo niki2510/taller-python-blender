@@ -21,13 +21,13 @@ Antes de programar efectos visuales para blender con python necesitamos tener co
   <strong>objeto-animacion-rigging.blend</strong><br> ==> Es un simple ejemplo como se puede usar "rigging" para controlar movimiento de un objeto
   <hr/>
   <h3 align="center">Programación de Python en Blender</h4><br>
-  <strong>Creación de un objeto en python para Blender:</strong></strong><br>
+  <strong>1.Creación de un objeto en python para Blender:</strong></strong><br>
   python-creación de un objeto.blend
   <hr/>
-    <strong>Cambiamos tamaños del objeto (escalamos)</strong><br>
+    <strong>2.Cambiamos tamaños del objeto (escalamos)</strong><br>
     python-cambiamos-tamaño.blend
     <hr/>
-    <strong>Animación simple de un cubo (por eje "X")</strong><br>
+    <strong>3.Animación simple de un cubo (por eje "X")</strong><br>
     python-animar-objeto.blend
     <hr/>
     <strong>deplazamiento-X-Y-2-full.blend (con Python) : Movimiento de cubo por: x,y,z</strong><br>
@@ -39,6 +39,6 @@ Tecla f = x
 Tecla c = z
 Tecla v = -z
 <hr/>
-  <strong>Forma geometrica personalizada: Piramide</strong><br><br>
+  <strong>4.Forma geometrica personalizada: Piramide</strong><br><br>
   <span>python-forma-persanalizada-piramide.blend</span>
   <hr/>
