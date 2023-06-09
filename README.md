@@ -30,7 +30,7 @@ Antes de programar efectos visuales para blender con python necesitamos tener co
     <strong>3. Animación simple de un cubo (por eje "X")</strong><br>
     python-animar-objeto.blend
     <hr/>
-    <strong>deplazamiento-X-Y-2-full.blend:<br> Movimiento de cubo por: x,y,z</strong><br>
+    <strong>deplazamiento-X-Y-Z-full.blend:</strong><br> Movimiento de cubo por: x,y,z<br>
 
 Tecla e = -y
 Tecla x = y
