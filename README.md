@@ -28,6 +28,10 @@ salto-una-pelota-XYZ.blend (sin código de python) ==> para enseñar movimiento 
 <strong><br>
   <strong>objeto-animacion-rigging.blend</strong><br> ==> Es un simple ejemplo como se puede usar "rigging" para controlar movimiento de un objeto
   <hr/>
-  <strong>Forma geometrica personalizada: Piramide</strong><br>
+  <hr/>
+  <strong>Creación de un objeto en python para Blender</strong></strong>
+  python-creación de un objeto.blend
+  <hr/>
+  <strong>Forma geometrica personalizada: Piramide</strong><br><br>
   <span>python-forma-persanalizada-piramide.blend</span>
   <hr/>
