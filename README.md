@@ -20,7 +20,7 @@ Antes de programar efectos visuales para blender con python necesitamos tener co
 <strong><br>
   <strong>objeto-animacion-rigging.blend</strong><br> ==> Es un simple ejemplo como se puede usar "rigging" para controlar movimiento de un objeto
   <hr/>
-  <strong>Ejercicio: Dado</strong>
+  <strong>Ejercicio: Dado</strong><br>
   Ejercicio resuelto: dado3.blend 
   <hr/>
   <h3 align="center">Programación de Python en Blender</h4><br>
